@@ -4,22 +4,22 @@ The T20 World Cup is a major cricketing event showcasing the best players in the
 
 **2. Objective:**
 
-    Analyze player performance data from the 2022 T20 World Cup.
-    Develop criteria to identify top performers for different roles (openers, middle-order, all-rounders, spinners, fast bowlers).
-    Build a virtual "best team" based on performance metrics and role-specific requirements.
-    Visualize player performance data and team composition using Power BI.
+Analyze player performance data from the 2022 T20 World Cup.
+Develop criteria to identify top performers for different roles (openers, middle-order, all-rounders, spinners, fast bowlers).
+Build a virtual "best team" based on performance metrics and role-specific requirements.
+Visualize player performance data and team composition using Power BI.
 
 **3. Module Description:**
 
-    **Data Collection:** Used Bright Data web scraping tool to extract match summaries, player batting and bowling statistics, and player information from a cricket website.
-    
-    **Data Cleaning and Transformation:** Transformed scraped data into separate Excel files and further cleaned and manipulated data using Jupyter Notebook and Excel.
-    
-    **Data Analysis:** Defined criteria for each player role (e.g., average, strike rate, position for openers) and filtered players based on those criteria.
-    
-    **Team Building: **Selected top performers for each role to create the virtual "best team."
+**Data Collection:** Used Bright Data web scraping tool to extract match summaries, player batting and bowling statistics, and player information from a cricket website.
 
-    **Data Visualization:** Created Power BI dashboards with various charts, graphs, and tables to visualize player performance and team composition.
+**Data Cleaning and Transformation:** Transformed scraped data into separate Excel files and further cleaned and manipulated data using Jupyter Notebook and Excel.
+
+**Data Analysis:** Defined criteria for each player role (e.g., average, strike rate, position for openers) and filtered players based on those criteria.
+
+**Team Building: **Selected top performers for each role to create the virtual "best team."
+
+**Data Visualization:** Created Power BI dashboards with various charts, graphs, and tables to visualize player performance and team composition.
 
 ![Openers](https://github.com/ImBatman-7/Cricket-Data-Analysis/blob/main/screens/1.png?raw=true)
 
