@@ -21,6 +21,8 @@ Visualized player performance data and team composition using Power BI.
 
 **Data Visualization:** Created Power BI dashboards with various charts, graphs, and tables to visualize player performance and team composition.
 
+**FINAL DASHBOARDS**
+
 ![Openers](https://github.com/ImBatman-7/Cricket-Data-Analysis/blob/main/screens/1.png?raw=true)
 
 ![Middle_Order](https://github.com/ImBatman-7/Cricket-Data-Analysis/blob/main/screens/2.png?raw=true)
