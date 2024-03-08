@@ -1,5 +1,5 @@
-**1. Introduction:
-**
+**1. Introduction:**
+
 The T20 World Cup is a major cricketing event showcasing the best players in the world. This project analyzed data from the 2022 T20 World Cup to identify the top performers and construct the optimal team based on specific criteria.
 
 **2. Objective:**
