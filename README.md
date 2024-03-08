@@ -1,13 +1,13 @@
 **1. Introduction:**
 
-The T20 World Cup is a major cricketing event showcasing the best players in the world. This project analyzed data from the 2022 T20 World Cup to identify the top performers and construct the optimal team based on specific criteria.
+The T20 World Cup is a major cricketing event showcasing the best players in the world. This project analyzed data from the 2022 T20 World Cup to identify the top performers and constructed the optimal team based on specific criteria.
 
 **2. Objective:**
 
-Analyze player performance data from the 2022 T20 World Cup.
-Develop criteria to identify top performers for different roles (openers, middle-order, all-rounders, spinners, fast bowlers).
-Build a virtual "best team" based on performance metrics and role-specific requirements.
-Visualize player performance data and team composition using Power BI.
+Analyzed player performance data from the 2022 T20 World Cup.
+Developed criteria to identify top performers for different roles (openers, middle-order, all-rounders, spinners, fast bowlers).
+Built a virtual "best team" based on performance metrics and role-specific requirements.
+Visualized player performance data and team composition using Power BI.
 
 **3. Module Description:**
 
@@ -17,7 +17,7 @@ Visualize player performance data and team composition using Power BI.
 
 **Data Analysis:** Defined criteria for each player role (e.g., average, strike rate, position for openers) and filtered players based on those criteria.
 
-**Team Building: **Selected top performers for each role to create the virtual "best team."
+**Team Building:** Selected top performers for each role to create the virtual "best team."
 
 **Data Visualization:** Created Power BI dashboards with various charts, graphs, and tables to visualize player performance and team composition.
 
